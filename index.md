@@ -48,8 +48,7 @@
     </div>
     </section>
 
-<script src="test-assets\typeit.min.js.download"></script>
-    <script src="typeit.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js"</script>
     <script>
     new TypeIt("#type-effect", {
         speed: 375,
