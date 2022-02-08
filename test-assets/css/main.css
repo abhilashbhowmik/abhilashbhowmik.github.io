@@ -52,7 +52,6 @@ body{
   padding: 10px;
 }
 p.a{
-    font-family: 'SF Pro Display';
     font-weight: bold;
     padding-bottom: 0px;
     padding-top: 0px;
@@ -335,7 +334,6 @@ h1{
 }
 p.b{
   text-align: center;
-  font-family: 'Avenir LT Std';
   color: #01130c;
   line-height: 22px;
   box-sizing: border-box;
@@ -460,7 +458,6 @@ textarea {
 .footer-class {
     color: #b1c2c4;
     font-size: medium;
-    font-family: 'SF Mono';
     text-align: center;
     padding-top: 25px;
     padding-bottom: 50px;
@@ -834,7 +831,6 @@ li#nav-hamburger{
   .project-cover .title {
     color: #fff;
     float: none;
-    font-family: bpdp;
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
@@ -850,7 +846,6 @@ li#nav-hamburger{
   .project-cover .date {
     color: #D4D4D4;
     float: none;
-    font-family: bpdp;
     font-size: 12px;
     font-style: normal;
     font-weight: 400;
@@ -866,7 +861,6 @@ li#nav-hamburger{
   .project-cover .custom1 {
     color: #fff;
     float: none;
-    font-family: nyty;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -882,7 +876,6 @@ li#nav-hamburger{
   .project-cover .custom2 {
     color: #fff;
     float: none;
-    font-family: nyty;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -898,7 +891,6 @@ li#nav-hamburger{
   .project-cover .description {
     color: #fff;
     float: none;
-    font-family: nyty;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
