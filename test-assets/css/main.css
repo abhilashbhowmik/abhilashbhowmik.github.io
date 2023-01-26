@@ -192,13 +192,45 @@ ul#horizontal-list li {
         text-decoration:none;
         text-align: center;*/
 }
+@font-face {
+  font-family: 'neue_haas_grotesk_display75Bd';
+  src: url('../fonts/neuehaasdisplaybold-webfont.woff2') format('woff2'),
+       url('../fonts/neuehaasdisplaybold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'neue_haas_grotesk_display65Md';
+  src: url('../fonts/neuehaasdisplaymediu-webfont.woff2') format('woff2'),
+       url('..fonts/neuehaasdisplaymediu-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'neue_haas_grotesk_disp55roman';
+  src: url('../fonts/neuehaasdisplayroman-webfont.woff2') format('woff2'),
+       url('..fonts/neuehaasdisplayroman-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
 
 .button-module {
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "neue_haas_grotesk_display75Bd";
   font-size: 16px;
   color: #111111;
   font-size: 16px;
-  font-weight: 650;
+  font-weight: 700;
   line-height: 48px;
   text-transform: none;
   background-color: white;
@@ -297,7 +329,7 @@ a:link, a:visited {
 
 nav{
   overflow: visible;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "neue_haas_grotesk_display75Bd";
   font-weight: 550;
   display: flex;
   justify-content: flex-start;
@@ -465,7 +497,7 @@ p.b{
 }
 .form-input{
   color: white;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "neue_haas_grotesk_display65Md";
   font-weight: 500;
 }
 
@@ -478,7 +510,8 @@ input[type=text]{
   border: 2px solid #00ffcc80;
   border-radius: 4px;
   background-color: #373737;
-  font-family: 'Bahnschrift', sans-serif;
+  color: white;
+  font-family: "neue_haas_grotesk_disp55roman";
 }
 
 textarea {
@@ -491,8 +524,9 @@ textarea {
   border: 2px solid #00ffcc80;
   border-radius: 4px;
   background-color: #373737;
+  color: white;
   resize:both;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "neue_haas_grotesk_disp55roman";
 }
 /*.button-container-aboutme {
   padding-left: 0px;
@@ -734,7 +768,7 @@ li#horizontal-list-nav-hamburger-sm-links{
   top: 50%;
   transform: translateY(-50%);
   font-size: 30px;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "neue_haas_grotesk_display75Bd";
   font-weight: 550;
   text-align: center;
   margin: auto;
