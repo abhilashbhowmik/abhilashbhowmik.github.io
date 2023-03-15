@@ -408,11 +408,11 @@ li a{
 .centered{
   align-items: flex-start;
   justify-content: center;
-  padding: 75px;
+  padding: 20px;
 }
 .splash{
   display: flex;
-    margin: 0 auto;
+    margin: 40 0 auto;
     min-height: auto;
     position: relative;
     width: 100%;
