@@ -408,7 +408,7 @@ li a{
 .centered{
   align-items: flex-start;
   justify-content: center;
-  padding: 20px;
+  padding: 75px;
 }
 .splash{
   display: flex;
